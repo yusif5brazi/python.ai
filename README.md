@@ -1,12 +1,14 @@
 # Hi im Amx 👋
 
-# And Now Is My Project is pyhton ai For My Ac
+# This Is My Tool
 
-¹🔭 Most Of My Projects Are Private, [A Discord With 20 Members]
+¹This Tool For Discord Token Encryption
 
-²🌱 I’m currently focused mostly on Lua & Html & Java
+²Anti Google Cookies Graber
 
-³📫 Contact Me Via Discord https://discord.com/users/798145401844138005
+³Anti Web Bloker & App Bloker
 
-⁴⚡ Useless fact PHP Based API's are slow 
+⁴This tool Will Be Free
+
+Coming Soon
 
